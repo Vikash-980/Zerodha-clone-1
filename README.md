@@ -108,7 +108,7 @@ Portfolio and trading operations become available.
 🚀 Getting Started (Local Setup)
 1️⃣ Clone the Repository
 
-git clone https://github.com/SonuFirasath/Zerodha_Clone.git
+git clone https://github.com/Vikash-980/Zerodha-clone-1.git
 
 cd Zerodha_Clone
 
