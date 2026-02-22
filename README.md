@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🚀 Zerodha Clone – MERN Full Stack Trading Platform
 <p align="center">
 
@@ -194,3 +195,6 @@ Full Stack Developer | MERN Stack Enthusiast
 🔗 GitHub: https://github.com/SonuFirasath
 
 ⭐ If you found this project interesting, consider giving it a star!
+=======
+# Zerodha-clone-1
+>>>>>>> 508d6ba6f805e4d4463e7455f37625fe272811c3
