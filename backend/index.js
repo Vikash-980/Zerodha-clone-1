@@ -33,6 +33,10 @@ app.use(bodyParser.json());
 app.use(cookieParser());
 app.use("/", authRoute);
 
+app.get("/", (req, res) => {
+  res.json({ message: "Zerodha Clone Backend Live! 🚀" });
+});
+
 
 app.get("/allHoldings",async(req,res)=>{
   let allHoldings = await HoldingsModel.find({});
