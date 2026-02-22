@@ -173,7 +173,6 @@ Full-stack application structuring
 
 📽 Demo
 
-Demo Video Link : https://drive.google.com/file/d/1JgXpTlFKBY2fHf_mSkDUDart2G_tYE56/view?usp=sharing
 
 🛣 Future Improvements
 
@@ -192,7 +191,7 @@ Demo Video Link : https://drive.google.com/file/d/1JgXpTlFKBY2fHf_mSkDUDart2G_tY
 Sonu Firasath
 Full Stack Developer | MERN Stack Enthusiast
 
-🔗 GitHub: https://github.com/SonuFirasath
+🔗 GitHub: https://github.com/Vikash-980
 
 ⭐ If you found this project interesting, consider giving it a star!
 =======
