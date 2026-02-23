@@ -1,24 +1,32 @@
 <<<<<<< HEAD
 🚀 Zerodha Clone – MERN Full Stack Trading Platform
-<p align="center">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
 A full-stack stock trading simulation platform inspired by Zerodha’s Kite dashboard.
 Built using the MERN stack with secure authentication, portfolio management, and interactive financial data visualization.
+
+<p align="center">
+  <img width="45%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/9fd8bb38-a31d-48f7-b205-fbb9af8650cb" />
+  <img width="45%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b94fd964-231b-4bd9-8fe2-31e22550e04d" />
+</p>
+
+## 🌐 Live Demo
+| Component | Live Link |
+|-----------|-----------|
+| 🖥 Frontend | [https://zerodha-clone-frontend-s33j.onrender.com](https://zerodha-clone-frontend-s33j.onrender.com) |
+| 📊 Dashboard | [https://zerodha-clone-dashboard-mpmt.onrender.com](https://zerodha-clone-dashboard-mpmt.onrender.com) |
+| ⚙ Backend API | [https://zerodha-clone-backend1.onrender.com](https://zerodha-clone-backend1.onrender.com) |
+
+## 🌐 Sample API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| ![POST](https://img.shields.io/badge/POST-0066cc?style=flat-square) | `/signup` | Register new user |
+| ![POST](https://img.shields.io/badge/POST-0066cc?style=flat-square) | `/login` | Authenticate user |
+| ![GET](https://img.shields.io/badge/GET-00cc66?style=flat-square) | `/allHoldings` | Fetch holdings |
+| ![GET](https://img.shields.io/badge/GET-00cc66?style=flat-square) | `/allPositions` | Fetch positions |
+| ![POST](https://img.shields.io/badge/POST-0066cc?style=flat-square) | `/newOrder` | Place order |
+
+
+
 
 📌 Project Overview
 
@@ -170,8 +178,6 @@ Frontend–backend integration
 Financial data visualization
 
 Full-stack application structuring
-
-📽 Demo
 
 
 🛣 Future Improvements
