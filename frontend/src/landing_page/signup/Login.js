@@ -43,7 +43,7 @@ const Login = () => {
         handleSuccess(message);
         setTimeout(() => {
           // navigate("/");
-          window.location.href = "https://zerodha-clone-frontend-s33j.onrender.com";
+          window.location.href = "https://zerodha-clone-dashboard-mpmt.onrender.com";
         }, 1000);
       } else {
         handleError(message);
