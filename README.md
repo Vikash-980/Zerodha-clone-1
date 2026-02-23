@@ -199,7 +199,24 @@ Full Stack Developer | MERN Stack Enthusiast
 
 🔗 GitHub: https://github.com/Vikash-980
 
-⭐ If you found this project interesting, consider giving it a star!
-=======
-# Zerodha-clone-1
->>>>>>> 508d6ba6f805e4d4463e7455f37625fe272811c3
+## 📞 Contact & Support
+
+<div align="left">
+  <p><strong>Author:</strong> Vikash Kumar</p>
+  <p><strong>Institution:</strong> Jagannath University, Jaipur, Rajasthan, India</p>
+
+  <a href="https://linkedin.com/in/vikashkr980" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Vikash-980" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  
+</div>
+
+<br />
+
+> **Note:** If you are interested in collaborating on this project or have any queries, feel free to reach out via any of the platforms above. 🚀
+
+<div align="center"> <i>Built with ❤️ & Code. If you find this useful, please give it a ⭐!</i> </div>
