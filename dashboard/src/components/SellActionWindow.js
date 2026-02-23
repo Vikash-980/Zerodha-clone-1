@@ -12,7 +12,7 @@ const SellActionWindow = ({ uid }) => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:3002/allOrders")
+      .get("https://zerodha-clone-backend1.onrender.com/allOrders")
       .then((res) => {
         const orders = res.data;
 
@@ -35,7 +35,7 @@ const SellActionWindow = ({ uid }) => {
       return;
     }
 
-    axios.post("http://localhost:3002/newOrder", {
+    axios.post("https://zerodha-clone-backend1.onrender.com/newOrder", {
       name: uid,
       qty: stockQuantity,
       price: stockPrice,
